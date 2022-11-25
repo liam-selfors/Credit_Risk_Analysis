@@ -16,7 +16,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.64
     - High Risk F1: 0.02
 
-![Naive random oversampling classification report](naive-random-oversampling-classification-report.PNG)
+![Naive random oversampling classification report](naive-random-oversampling-classification-report.png)
 
 * SMOTE
     - Accuracy Score: 0.6483453903727252
@@ -24,7 +24,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.69
     - High Risk F1: 0.02
 
-![SMOTE oversampling classification report](smote-oversampling-classification-report.PNG)
+![SMOTE oversampling classification report](smote-oversampling-classification-report.png)
 
 * Undersampling
     - Accuracy Score: 0.5343197994109156
@@ -32,7 +32,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.65
     - High Risk F1: 0.01
 
-![Undersampling classification report](undersampling-classification-report.PNG)
+![Undersampling classification report](undersampling-classification-report.png)
 
 * SMOTEENN
     - Accuracy Score: 0.6518342136223685
@@ -40,7 +40,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.73
     - High Risk F1: 0.02
 
-![Combination sampling classification report](combination-sampling-classification-report.PNG)
+![Combination sampling classification report](combination-sampling-classification-report.png)
 
 * Balanced Random Forest Classifier
     - Accuracy Score: 0.8012072102968764
@@ -48,7 +48,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.71
     - High Risk F1: 0.06
 
-![Balanced random forest classifier classification report](balanced-random-forest-classifier-classification-report.PNG)
+![Balanced random forest classifier classification report](balanced-random-forest-classifier-classification-report.png)
 
 * Easy Ensemble AdaBoost Classifier
     - Accuracy Score: 0.9425686313060163
@@ -56,7 +56,7 @@ The purpose of this analysis is to apply machine learning to evaluate credit ris
     - High Risk Recall: 0.95
     - High Risk F1: 0.12
 
-![Easy ensemble adaBoost classifier classification report](easy-ensemble-adaBoost-classifier-classification-report.PNG)
+![Easy ensemble adaBoost classifier classification report](easy-ensemble-adaBoost-classifier-classification-report.png)
 
 
 ## Summary
